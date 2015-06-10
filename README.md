@@ -12,6 +12,6 @@ Document créé pour amorçer l'atelier proposé par Aurélien Berra lors du Tha
 | lieu | string      | Ville et non lieu exacte    |2010, 2012, 2013, 2014, 2015|
 | geoloc | coordonnées lat/long      |    - |2010, 2012, 2013, 2014, 2015|
 | auteurs | string      |    Si plusieurs auteurs, séparés par des points-virgule |2010, 2012, 2013|
-| Forme_interrogative | OUI/NON      |présence du ?    |2010, 2012, 2013, 2014, 2015|
+| Forme_interrogative | OUI/NON      |présence du ? dans le titre de l'atelier    |2010, 2012, 2013, 2014, 2015|
 | institutions | string      |   à faire | - |
 | keywords | string     |    à faire |-|
