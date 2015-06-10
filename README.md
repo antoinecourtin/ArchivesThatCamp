@@ -15,3 +15,7 @@ Document créé pour amorçer l'atelier proposé par Aurélien Berra lors du Tha
 | Forme_interrogative | OUI/NON      |présence du ? dans le titre de l'atelier    |2010, 2012, 2013, 2014, 2015|
 | institutions | string      |   à faire | - |
 | keywords | string     |    à faire |-|
+
+##exemples
+
+- Pour les 3 premiers ThatCamps (2010,2012, 2013), 44 ateliers proposés par 55 auteurs différents (dont 25% de femme)
