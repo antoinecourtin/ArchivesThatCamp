@@ -1,4 +1,4 @@
-# ArchivesThatCampFrançais
+# DataThatCampFR
 
 Fichier CSV listant l'ensemble des ateliers issus des 5 éditions françaises du ThatCamp.
 
